@@ -5,6 +5,3 @@
 - HTML
 - CSS
 - Java Script
-
-## Como rodar
-<p>Basta clicar no arquivo index, acima. </p>
